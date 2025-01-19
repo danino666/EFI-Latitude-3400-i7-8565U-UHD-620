@@ -1,6 +1,6 @@
 # Hackintosh, Dell Latitude 3400, i7 8565U, UHD 620 + Fenvi BCM94360NG
 
-![about-12 3 1](https://user-images.githubusercontent.com/23700365/161353027-9aaeddf5-7457-49a8-b322-4e99ab94c679.png)
+
 
 **Latest working macOS**: macOS Sequoia 15.2
 <br>
