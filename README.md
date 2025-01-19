@@ -15,7 +15,7 @@
 |Audio Codec|Intel Cannon Point-LP PCH|
 |Ethernet|Realtek PCIe GbE Family Controller [RTL8111]|
 |Wireless/BT|Fenvi BCM94360NG [Airdrop]|
-|Storage|PC SN520 NVMe WDC 256GB (256 GB)|
+|Storage|PC SN520 NVMe WDC (256 GB)|
 |Trackpad|HID/PS2 - VEN_DELL&DEV_08BC|
 |Keyboard|Standard Keyboard PS/2|
 |Re-SIZE Bar Support|Resizable BAR    Disabled|
