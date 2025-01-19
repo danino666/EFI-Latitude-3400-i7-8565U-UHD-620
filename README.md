@@ -2,7 +2,7 @@
 
 
 
-**Latest working macOS**: macOS Sequoia 15.2
+**Latest working macOS**: Sequoia 15.2
 <br>
 **Current OpenCore**: 1.0.3
 <br>
