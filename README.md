@@ -56,6 +56,6 @@
 - WhateverGreen.kext
 
 ## Thanks/Credits
-- [Universo Hackintosh](https://github.com/luchina-gabriel/BASE-EFI-INTEL-8THGEN-COFFEE-LAKE-PUBLIC)
-- [pack-activate-wifi-bt-BCM94360-sequoia-v3](https://youtu.be/wH7S2ano-ac?si=OgVS7jBvdCaL3S8z)
 - [EFI.Opencore.NoteBook.Coffee.Lake.Whiskey.Lake.MOD](https://olarila.com/files/?dir=OPENCORE.MOD1)
+- [Universo Hackintosh](https://github.com/luchina-gabriel/BASE-EFI-INTEL-8THGEN-COFFEE-LAKE-PUBLIC)
+    - [pack-activate-wifi-bt-BCM94360-sequoia-v3](https://youtu.be/wH7S2ano-ac?si=OgVS7jBvdCaL3S8z)
