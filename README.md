@@ -55,7 +55,8 @@
     - VoodooPS2Keyboard
 - WhateverGreen.kext
 
-## Thanks/Credits
+## References/Credits
+- [Laptop Coffee Lake and Whiskey Lake](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html)
 - [EFI.Opencore.NoteBook.Coffee.Lake.Whiskey.Lake.MOD](https://olarila.com/files/?dir=OPENCORE.MOD1)
 - [Universo Hackintosh](https://github.com/luchina-gabriel/BASE-EFI-INTEL-8THGEN-COFFEE-LAKE-PUBLIC)
     - [pack-activate-wifi-bt-BCM94360-sequoia-v3](https://youtu.be/wH7S2ano-ac?si=OgVS7jBvdCaL3S8z)
