@@ -5,7 +5,7 @@
 **Release date**: 19/01/2025
 
 ## Complete hardware specs
-|Item|Description|
+|Item|:Description:|
 |-|:-------|
 |**Type**|Notebook|
 |**Mobo**|Dell Latitude 3400|
