@@ -1,5 +1,7 @@
 # Hackintosh, Dell Latitude 3400, i7 8565U, UHD 620 + Fenvi BCM94360NG
 
+![Overview](https://github.com/danino666/EFI-Latitude-3400-i7-8565U-UHD-620/blob/main/img/Overview.png)
+
 **Current OpenCore**: 1.0.3
 <br>
 **Release date**: 19/01/2025
