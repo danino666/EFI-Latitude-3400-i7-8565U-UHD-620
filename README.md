@@ -2,19 +2,16 @@
 
 ![Overview](https://github.com/danino666/EFI-Latitude-3400-i7-8565U-UHD-620/blob/main/img/Overview.png)
 
-**Current OpenCore**: 1.0.3
-<br>
 **Release date**: 19/01/2025
 
 ## Complete hardware specs
 |Item|Description|
-|-|:-------:|
+|-|:-------|
 |**Type**|Notebook|
 |**Mobo**|Dell Latitude 3400|
 |**CPU**|Intel Core i7-8565U - 8th Gen Whiskey Lake|
 |**RAM**|2x16Gb DDR4 2400Mhz|
 |**iGPU**|Intel(R) UHD Graphics 620 (1 GB) - 8086 3EA0|
-|**Re-SIZE Bar Support**|Resizable BAR    Disabled|
 |**Audio**|Intel Cannon Point-LP PCH|
 |**ETH**|Realtek PCIe GbE Family Controller [RTL8111]|
 |**WLAN+BT**|Fenvi BCM94360NG [Airdrop]|
@@ -24,6 +21,7 @@
 |**Ports**|USB-C (PD+DP-AltMode), 2xUSB3.1, 1xUSB2.0, HDMI, microSD, Multi-Jack, DC|
 |**SMBIOS**|MacBookPro15,2|
 |**macOS**|Sequoia 15.2|
+|**Bootloader**|OpenCore 1.0.3|
 
 ## What works
 - Bluetooth (4.0, LE, Handoff) [out-of-the-box, no kext needed]
