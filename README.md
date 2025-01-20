@@ -13,7 +13,7 @@
 |**RAM**|2x16Gb DDR4 2400Mhz|
 |**iGPU**|Intel(R) UHD Graphics 620 (1 GB) - 8086 3EA0|
 |**Audio**|Intel Cannon Point-LP PCH|
-|**ETH**|Realtek PCIe GbE Family Controller [RTL8111]|
+|**Ethernet**|Realtek PCIe GbE Family Controller [RTL8111]|
 |**WLAN+BT**|Fenvi BCM94360NG [Airdrop]|
 |**Storage**|PC SN520 NVMe WDC (256 GB)|
 |**Trackpad**|HID/PS2 - VEN_DELL&DEV_08BC|
