@@ -34,7 +34,7 @@
 - TouchPad buttons
 - Audio, with speaker and microphone support
 - Multi-Jack (both cold and hotplug)
-- WebCam
+- WebCam 720p
 - Sleep
 - Dedicated brightness control keys (use Fn+S/Fn+B instead) (F11/12 is working too)
 
