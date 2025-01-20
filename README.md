@@ -31,15 +31,15 @@
 - Graphics acceleration
 - USB ports including USB-C mapped, working after sleep 
 - TrackPad with gestures (visible as Magic Trackpad 2)
-- Audio, with speaker and microphone support
-- Sleep
 - TouchPad buttons
-- Multi-Jack (both cold- and hotplug)
+- Audio, with speaker and microphone support
+- Multi-Jack (both cold and hotplug)
+- WebCam
+- Sleep
 - Dedicated brightness control keys (use Fn+S/Fn+B instead) (F11/12 is working too)
 
 ## What doesn't work
 - MicroSD card reader (Not tested)
-- 720p WebCam (Not tested)
 - *Hibernation (none of Hackintoshes can do that)*
 - *Fingerprinting (needs a real T2 chip to work)*
 
