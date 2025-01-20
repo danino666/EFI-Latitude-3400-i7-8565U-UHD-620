@@ -13,7 +13,7 @@
 |**RAM**|2x16Gb DDR4 2400Mhz|
 |**iGPU**|Intel(R) UHD Graphics 620 (1 GB) - 8086 3EA0|
 |**Audio**|Intel Cannon Point-LP PCH|
-|**ETH**|Realtek PCIe GbE Family Controller [RTL8111]|
+|**Ethernet**|Realtek PCIe GbE Family Controller [RTL8111]|
 |**WLAN+BT**|Fenvi BCM94360NG [Airdrop]|
 |**Storage**|PC SN520 NVMe WDC (256 GB)|
 |**Trackpad**|HID/PS2 - VEN_DELL&DEV_08BC|
@@ -33,7 +33,7 @@
 - TrackPad with gestures (visible as Magic Trackpad 2)
 - TouchPad buttons
 - Audio, with speaker and microphone support
-- Multi-Jack (both cold and hotplug)
+- Multi-Jack (both, cold and hotplug)
 - WebCam 720p
 - Sleep
 - Dedicated brightness control keys (use Fn+S/Fn+B instead) (F11/12 is working too)
