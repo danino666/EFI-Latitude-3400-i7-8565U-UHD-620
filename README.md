@@ -9,25 +9,42 @@
 ## Complete hardware specs
 |Item|Description|
 |-|:-------:|
-|Type|Notebook|
-|Mobo|Dell Latitude 3400|
-|CPU|Intel Core i7-8565U - 8th Gen Whiskey Lake|
-|Memory|2x16Gb DDR4 2400Mhz|
-|dGPU/iGPU|Intel(R) UHD Graphics 620 (1 GB) - 8086 3EA0|
-|Audio Codec|Intel Cannon Point-LP PCH|
-|Ethernet|Realtek PCIe GbE Family Controller [RTL8111]|
-|Wireless/BT|Fenvi BCM94360NG [Airdrop]|
-|Storage|PC SN520 NVMe WDC (256 GB)|
-|Trackpad|HID/PS2 - VEN_DELL&DEV_08BC|
-|Keyboard|Standard Keyboard PS/2|
-|Re-SIZE Bar Support|Resizable BAR    Disabled|
-|macOS|Sequoia 15.2|
+|**Type**|Notebook|
+|**Mobo**|Dell Latitude 3400|
+|**CPU**|Intel Core i7-8565U - 8th Gen Whiskey Lake|
+|**RAM**|2x16Gb DDR4 2400Mhz|
+|**iGPU**|Intel(R) UHD Graphics 620 (1 GB) - 8086 3EA0|
+|**Re-SIZE Bar Support**|Resizable BAR    Disabled|
+|**Audio**|Intel Cannon Point-LP PCH|
+|**ETH**|Realtek PCIe GbE Family Controller [RTL8111]|
+|**WLAN+BT**|Fenvi BCM94360NG [Airdrop]|
+|**Storage**|PC SN520 NVMe WDC (256 GB)|
+|**Trackpad**|HID/PS2 - VEN_DELL&DEV_08BC|
+|**Keyboard**|Standard Keyboard PS/2|
+|**Ports**|USB-C (PD+DP-AltMode), 2xUSB3.1, 1xUSB2.0, HDMI, microSD, Multi-Jack, DC|
+|**SMBIOS**|MacBookPro15,2|
+|**macOS**|Sequoia 15.2|
 
 ## What works
-- All features
+- Bluetooth (4.0, LE, Handoff) [out-of-the-box, no kext needed]
+- WLAN (BCM94360 need kexts IOSkywalkFamily and kernel-block.plist)
+- Ethernet (RealtekRTL8111.kext)
+- HDMI, DisplayPort Alt Mode (all with sound, but no volume adjustment)
+- Graphics acceleration
+- USB ports including USB-C mapped, working after sleep 
+- TrackPad with gestures (visible as Magic Trackpad 2)
+- Audio, with speaker and microphone support
+- Sleep
+- TouchPad buttons
+- Multi-Jack (both cold- and hotplug)
+- Dedicated brightness control keys (use Fn+S/Fn+B instead) (F11/12 is working too)
 
 ## What doesn't work
-- Fingerprinting is not possible because macOS needs a real T2 chip to work
+- MicroSD card reader (Not tested)
+- 720p WebCam (Not tested)
+- *Hibernation (none of Hackintoshes can do that)*
+- *Fingerprinting (needs a real T2 chip to work)*
+
 
 ## Kexts used:
 - AMFIPass.kext
